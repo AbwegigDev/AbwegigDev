@@ -7,7 +7,7 @@
 LEGACY  ──────────────────────────────▶  PERFORMANT
 ```
 
-### Till Schwabe
+### Till
 
 **Web Developer · SBK Digital**
 
