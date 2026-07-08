@@ -21,7 +21,7 @@ LEGACY  ────────────────────────
 
 ### `WEB · PERFORMANCE · REFACTOR`
 
-Ich entwickle Websites für KMUs — performance-optimiert, SEO-ready, ohne Baukasten.
+Entwicklung von Websites für KMUs, performance-optimiert, SEO-ready, ohne Baukasten.
 Veraltete Auftritte modernisieren oder neue von Grund auf bauen.
 
 ---
