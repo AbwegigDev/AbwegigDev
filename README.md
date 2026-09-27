@@ -3,7 +3,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FF7A1A&height=120&section=header&fontColor=E8ECF2" />
 
-
 ### Till
 
 **Web Developer · SBK Digital**
