@@ -3,9 +3,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FF7A1A&height=120&section=header&fontColor=E8ECF2" />
 
-```
-LEGACY  ──────────────────────────────▶  PERFORMANT
-```
 
 ### Till
 
