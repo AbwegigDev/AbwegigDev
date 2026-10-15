@@ -17,8 +17,7 @@
 
 ### `WEB · PERFORMANCE · REFACTOR`
 
-Entwicklung von Websites für KMUs, performance-optimiert, SEO-ready, ohne Baukasten.
-Veraltete Auftritte modernisieren oder neue von Grund auf bauen.
+Alte Website? Wir machen sie neu.
 
 ---
 
